@@ -34,10 +34,6 @@ Projeto voltado para **advogados e operadores do Direito** que desejam acompanha
 Baixe a versão mais recente da extensão na página de **Releases**:
 
 - 📦 [Download (.zip)](https://github.com/lZzFOXzZl/DJEN-Prazos/releases/download/v6.0-beta/djen-prazos-v6.zip)
-- 
-Arquivo disponível:
-
-- `djen-prazos-v6.zip`
 
 ---
 
