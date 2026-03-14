@@ -1,6 +1,6 @@
 # ⚖️ DJEN Prazos
 
-Extensão para **consulta de intimações no Diário da Justiça Eletrônico Nacional (DJEN)** por OAB, com **identificação automática de prazos processuais** e **calculadora de vencimentos considerando feriados nacionais**.
+Extensão do Firefox para **consulta de intimações no Diário da Justiça Eletrônico Nacional (DJEN)** por OAB, com **identificação automática de prazos processuais** e **calculadora de vencimentos considerando feriados nacionais**.
 
 Projeto voltado para **advogados e operadores do Direito** que desejam acompanhar publicações e calcular prazos de forma mais rápida e segura.
 
@@ -57,7 +57,9 @@ Digite na barra de endereço: about:debugging
 
 ---
 
-## 3️⃣ Clique em: This Firefox
+## 3️⃣ Clique em: 
+
+This Firefox
 
 ---
 
