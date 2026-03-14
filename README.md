@@ -1,20 +1,121 @@
-# DJEN-Prazos
-Consulta intimações do DJEN por OAB com análise inteligente de prazos e calculadora de vencimentos com feriados nacionais.
+# ⚖️ DJEN Prazos
 
-# Sobre esta extensão
-O DJEN Prazos permite que advogados consultem rapidamente suas intimações no Diário da Justiça Eletrônico Nacional (DJEN) informando apenas o número da OAB e o estado.
+Extensão para **consulta de intimações no Diário da Justiça Eletrônico Nacional (DJEN)** por OAB, com **identificação automática de prazos processuais** e **calculadora de vencimentos considerando feriados nacionais**.
 
-## Recursos principais
+Projeto voltado para **advogados e operadores do Direito** que desejam acompanhar publicações e calcular prazos de forma mais rápida e segura.
 
-- 📋 Consulta de intimações por OAB e período  
-- ⚠️ Identificação automática de prazos nas publicações  
-- 📅 Calculadora de prazos com dias úteis e corridos  
-- ⚖️ Feriados nacionais e municipais considerados automaticamente  
-- 💾 Exportação das intimações em .txt  
-- ☕ Projeto independente e gratuito
+---
 
-## 📸 Demonstração
+# 🚀 Recursos principais
+
+- 📋 Consulta de intimações por **OAB e período**
+- ⚠️ **Identificação automática de prazos** nas publicações
+- 📅 Calculadora de prazos com **dias úteis e corridos**
+- ⚖️ Consideração automática de **feriados nacionais e municipais**
+- 💾 Exportação das intimações em **.txt**
+- ☕ Projeto **independente e gratuito**
+
+---
+
+# 📸 Demonstração
+
+## Tela principal
 
 ![Tela principal](357318.png)
 
+## Consulta de prazos
+
 ![Consulta de prazos](357319.png)
+
+---
+
+# 📥 Download
+
+Baixe a versão mais recente da extensão na página de **Releases**:
+
+👉 https://github.com/IZZFOxZZI/DJEN-Prazos/releases
+
+Arquivo disponível:
+
+- `djen-prazos-v6.zip`
+
+---
+
+# ⚙️ Como instalar (extensão não assinada)
+
+Como a extensão ainda **não está assinada pela Mozilla**, a instalação deve ser feita manualmente.
+
+## 1️⃣ Baixe a extensão
+
+Baixe e extraia o arquivo `.zip` na página de Releases.
+
+---
+
+## 2️⃣ Abra o Firefox
+
+Digite na barra de endereço: about:debugging
+
+---
+
+## 3️⃣ Clique em: This Firefox
+
+---
+
+## 4️⃣ Carregar extensão
+
+Clique em:Load Temporary Add-on
+
+---
+
+## 5️⃣ Selecione o arquivo dentro da pasta da extensão
+
+Escolha o arquivo: manifest.json
+
+---
+
+## 6️⃣ Extensão carregada
+
+A extensão **DJEN Prazos** será carregada imediatamente no navegador.
+
+⚠️ Observação:
+
+- A extensão será removida ao fechar o Firefox
+- Para usar novamente basta repetir o processo
+
+---
+
+# 🔒 Segurança
+
+Esta extensão:
+
+- ❌ Não coleta dados pessoais
+- ❌ Não envia informações para servidores externos
+- ✔️ Apenas consulta dados públicos do DJEN
+
+---
+
+# 📌 Status do projeto
+
+⚠️ **Versão em testes (Beta)**  
+
+A extensão está aguardando aprovação no repositório oficial do **Firefox Add-ons**.
+
+---
+
+# ☕ Apoiar o projeto
+
+Se este projeto te ajudou no dia a dia jurídico, considere apoiar o desenvolvimento.
+
+Esta disponibilizado um link de apoio.
+
+---
+
+# 📄 Licença
+
+Este projeto está licenciado sob os termos da licença incluída no repositório.
+
+---
+
+# 👨‍💻 Autor
+
+Projeto desenvolvido por **FOX DIAMOND**.
