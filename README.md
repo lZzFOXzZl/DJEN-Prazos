@@ -21,11 +21,11 @@ Projeto voltado para **advogados e operadores do Direito** que desejam acompanha
 
 ## Tela principal
 
-![Tela principal](357318.png)
+![Tela principal](357319.png)
 
 ## Consulta de prazos
 
-![Consulta de prazos](357319.png)
+![Consulta de prazos](357318.png)
 
 ---
 
