@@ -15,6 +15,6 @@ O DJEN Prazos permite que advogados consultem rapidamente suas intimações no D
 
 ## 📸 Demonstração
 
-![Tela principal](screenshots/357318.png)
+![Tela principal](357318.png)
 
-![Consulta de prazos](screenshots/357319.png)
+![Consulta de prazos](357319.png)
