@@ -12,3 +12,8 @@ O DJEN Prazos permite que advogados consultem rapidamente suas intimações no D
 - ⚖️ Feriados nacionais e municipais considerados automaticamente  
 - 💾 Exportação das intimações em .txt  
 - ☕ Projeto independente e gratuito
+
+## 📸 Demonstração
+
+![Tela da extensão](screenshots/357318.png)
+![Tela da extensão](screenshots/357319.png)
