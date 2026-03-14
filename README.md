@@ -65,7 +65,7 @@ This Firefox
 
 ## 4️⃣ Carregar extensão
 
-Clique em:Load Temporary Add-on
+Clique em: Load Temporary Add-on
 
 ---
 
