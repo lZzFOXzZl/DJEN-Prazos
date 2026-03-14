@@ -105,7 +105,6 @@ A extensão está aguardando aprovação no repositório oficial do **Firefox Ad
 ---
 
 # ☕ Apoiar o projeto
-## ☕ Apoiar o projeto
 
 Se o DJEN Prazos te ajudou de alguma forma, considere apoiar o projeto.
 
