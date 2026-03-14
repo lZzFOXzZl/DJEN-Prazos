@@ -105,10 +105,11 @@ A extensão está aguardando aprovação no repositório oficial do **Firefox Ad
 ---
 
 # ☕ Apoiar o projeto
+## ☕ Apoiar o projeto
 
-Se este projeto te ajudou no dia a dia jurídico, considere apoiar o desenvolvimento.
+Se o DJEN Prazos te ajudou de alguma forma, considere apoiar o projeto.
 
-Esta disponibilizado um link de apoio.
+Um **QR Code para contribuição** está disponível na aba **Apoio** da extensão.
 
 ---
 
