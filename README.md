@@ -1,5 +1,9 @@
 # ⚖️ DJEN Prazos
 
+[![Star](https://img.shields.io/badge/Give%20a%20Star-GitHub-yellow?style=for-the-badge)](https://github.com/lZzFOXzZl/DJEN-Prazos)
+
+![GitHub Downloads](https://img.shields.io/github/downloads/lZzFOXzZl/DJEN-Prazos/total)
+
 Extensão do Firefox para **consulta de intimações no Diário da Justiça Eletrônico Nacional (DJEN)** por OAB, com **identificação automática de prazos processuais** e **calculadora de vencimentos considerando feriados nacionais**.
 
 Projeto voltado para **advogados e operadores do Direito** que desejam acompanhar publicações e calcular prazos de forma mais rápida e segura.
