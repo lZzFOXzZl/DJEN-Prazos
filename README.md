@@ -37,52 +37,7 @@ Projeto voltado para **advogados e operadores do Direito** que desejam acompanha
 
 Baixe a versão mais recente da extensão na página de **Releases**:
 
-- 📦 [Download (.zip)]([https://github.com/lZzFOXzZl/DJEN-Prazos/releases/download/v6.0-beta/djen-prazos-v6.zip](https://addons.mozilla.org/pt-BR/firefox/addon/djen-prazos/))
-
----
-
-# ⚙️ Como instalar (extensão não assinada)
-
-Como a extensão ainda **não está assinada pela Mozilla**, a instalação deve ser feita manualmente.
-
-## 1️⃣ Baixe a extensão
-
-Baixe e extraia o arquivo `.zip` na página de Releases.
-
----
-
-## 2️⃣ Abra o Firefox
-
-Digite na barra de endereço: about:debugging
-
----
-
-## 3️⃣ Clique em: 
-
-This Firefox
-
----
-
-## 4️⃣ Carregar extensão
-
-Clique em: Load Temporary Add-on
-
----
-
-## 5️⃣ Selecione o arquivo dentro da pasta da extensão
-
-Escolha o arquivo: manifest.json
-
----
-
-## 6️⃣ Extensão carregada
-
-A extensão **DJEN Prazos** será carregada imediatamente no navegador.
-
-⚠️ Observação:
-
-- A extensão será removida ao fechar o Firefox
-- Para usar novamente basta repetir o processo
+- 📦 [Download](https://github.com/lZzFOXzZl/DJEN-Prazos/releases/download/v6.0-beta/djen-prazos-v6.zip](https://addons.mozilla.org/pt-BR/firefox/addon/djen-prazos/)
 
 ---
 
