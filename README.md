@@ -1,4 +1,4 @@
-# ⚖️ DJEN Prazos
+/# ⚖️ DJEN Prazos
 
 [![Star](https://img.shields.io/badge/Give%20a%20Star-GitHub-yellow?style=for-the-badge)](https://github.com/lZzFOXzZl/DJEN-Prazos)
 
@@ -56,7 +56,7 @@ Esta extensão:
 
 ⚠️ **Versão em testes (Beta)**  
 
-A extensão está aguardando aprovação no repositório oficial do **Firefox Add-ons**.
+A extensão foi aprovado no repositório oficial do **Firefox Add-ons**.
 
 ---
 
