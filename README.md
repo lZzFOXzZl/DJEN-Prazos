@@ -37,7 +37,8 @@ Projeto voltado para **advogados e operadores do Direito** que desejam acompanha
 
 Baixe a versão mais recente da extensão na página de **Releases**:
 
-- 📦 [Download](https://github.com/lZzFOXzZl/DJEN-Prazos/releases/download/v6.0-beta/djen-prazos-v6.zip](https://addons.mozilla.org/pt-BR/firefox/addon/djen-prazos/)
+- 📦 [Download](https://github.com/lZzFOXzZl/DJEN-Prazos/releases/download/v6.0-beta/djen-prazos-v6.zip)
+
 
 ---
 
